@@ -4,6 +4,10 @@ title: Business Cases
 nav_order: 2
 ---
 
+- [Home](home.md)
+- [Business Cases](business_cases.md)
+- [Course Reflections](course_reflections.md)
+
 # Business Cases
 
 Here are some key business case studies:
