@@ -1,4 +1,6 @@
 ## DAA Course Project
 <dl>
-  - [GitHub](https://github.com/your-github-username)
+## 🌐 Find Me Online
+- [GitHub](https://github.com/your-github-username)
+- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
 </dl>
