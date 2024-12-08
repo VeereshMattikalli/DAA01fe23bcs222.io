@@ -4,6 +4,10 @@ title: Course Reflections
 nav_order: 3
 ---
 
+- [Home](home.md)
+- [Business Cases](business_cases.md)
+- [Course Reflections](course_reflections.md)
+
 # Course Reflections
 
 Reflections and learnings from the course:
