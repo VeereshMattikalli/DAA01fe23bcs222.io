@@ -1,2 +1,4 @@
-title: DAA Course Project.
-theme: jekyll-theme-cayman
+title: DAA COURSE PROJECT
+description: A GitHub Pages site showcasing business cases and course reflections.
+theme: minima
+markdown: kramdown
