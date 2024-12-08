@@ -9,9 +9,9 @@ nav_order: 3
 - [Business Cases](business_cases.md)
 - [Course Reflections](course_reflections.md)
 
-# Course Reflections
+# Individual Course Reflections
 
-Reflections and learnings from the course:
-
-- **Lesson 1:** Key takeaway.
-- **Lesson 2:** Another important insight.
+- Shreyas Kumara's Reflections
+- Veeresh's Reflections
+- Arav's reflections
+- Ravi's Reflections
