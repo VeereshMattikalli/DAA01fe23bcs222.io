@@ -1,1 +1,1 @@
-[Github]([https://example.com](https://github.com/VeereshMattikalli))
+[Github](https://github.com/VeereshMattikalli)
