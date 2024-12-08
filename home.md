@@ -11,7 +11,7 @@ nav_order: 2
 
 # Home
 **Team Members:**
--Shreyas Kumara Adi(504)
--Veeresh Mattikalli(511)
--Arav Shah(522)
--Ravi Kiresur(523)
+- Shreyas Kumara Adi(504)
+- Veeresh Mattikalli(511)
+- Arav Shah(522)
+- Ravi Kiresur(523)
