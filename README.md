@@ -1,6 +1,6 @@
 .
 ├── _config.yml
 ├── index.md
-├── Home.md
+├── home.md
 ├── business_cases.md
 ├── course_reflections.md
