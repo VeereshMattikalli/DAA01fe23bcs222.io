@@ -11,8 +11,11 @@ nav_order: 1
 - [Course Reflections](course_reflections.md)
   
 **Proposed City Name:** Suryakshetra  
-**Division:** ‘E’  
-**Team:** E-3  
+
+**Division:** ‘E’ 
+
+**Team:** E-3 
+
 **Team Members:**
 - Shreyas Kumar Adi (504)
 - Veeresh Mattikalli (511)
