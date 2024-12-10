@@ -7,10 +7,10 @@
 ## Div: E
 ## Team no.: E-3
 ## Course: 
--Design And Anlysis Algorithm
+- Design And Anlysis Algorithm
 
 ## Course Code: 
--24ECSP206
+- 24ECSP206
 
 ## Course Instructor: 
 - Dr. Prakash Hegde
