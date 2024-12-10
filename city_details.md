@@ -22,7 +22,7 @@
 
 ### Land Distribution (in sq. km)
 
-![Pie Chart of Land Distribution](assets/land_distribution.jpg)
+![Pie Chart of Land Distribution](land_distribution.jpg)
 
 ### Breakdown of Land Distribution:
 
@@ -45,7 +45,7 @@
 - **Neighbouring Cities:** Rajkot [360001], Porbandar [361001], Junagadh [362001]
 - **PIN Code:** 363001
   
-![The highlighted area on the map is the chosen city in Gujarat for the smart city layout.](assets/location.jpg)
+![The highlighted area on the map is the chosen city in Gujarat for the smart city layout.](location.jpg)
 
 
 ## IV. Budget
@@ -70,7 +70,7 @@
 
 ### Budget Distribution (in crores)
 
-![Pie Chart of Budget Distribution](assets/budget.jpg)
+![Pie Chart of Budget Distribution](budget.jpg)
 
 ## V. Revenue Models
 
