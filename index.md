@@ -6,9 +6,14 @@
   
 ## Div: E
 ## Team no.: E-3
-## Course: Design And Anlysis Algorithm
-## Course Code: 24ECSP206
-## Course Instructor: Dr. Prakash Hegde
+## Course: 
+-Design And Anlysis Algorithm
+
+## Course Code: 
+-24ECSP206
+
+## Course Instructor: 
+- Dr. Prakash Hegde
 
 ## What is the course about? 
 - The course is designed to understand how real world entities help us in solving computational problems and also develop analytical skills.It also helps to understand the method of solving the problem which leads to finding better solutions in terms of efficiency.
