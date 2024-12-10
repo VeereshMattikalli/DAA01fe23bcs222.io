@@ -19,6 +19,6 @@
 ## How do you connect the course with real time applications? 
 - We connect this to the real world for example we use sorting algorithms in big organisations or companies to sort there database entries. Knuth-Moris-Pratt can be used to match DNA in forensic labs,etc
 
-## To view the full details of city [CLICK HERE](https://drive.google.com/file/d/1pyQiMGqVHgg7MXZFgqrvLlH-FmYii2y_/view?usp=sharing)
+## To view the full details of city [CLICK HERE](city_details.md)
 ## To View Buisness Cases [CLICK HERE](Buisness_cases_all.md)
 
